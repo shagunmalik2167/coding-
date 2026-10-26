@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public long maximizeSum(int[] nums, int k) {
         long sum = 0;
